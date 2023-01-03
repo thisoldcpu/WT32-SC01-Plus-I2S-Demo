@@ -27,7 +27,7 @@ Requires:
 Audio audio;
 
 String ssid = "********";
-String password = ""********";
+String password = "********";
 
 class LGFX : public lgfx::LGFX_Device
 {
